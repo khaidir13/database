@@ -4,11 +4,5 @@
     "name": "Toto",
     "role": "Admin",
     "image": "https://raw.githubusercontent.com/khaidir13/database/main/pfp/1755166909619-TAWHID-ARMY.jpeg"
-  },
-  {
-    "id": "member_1755186301566",
-    "name": "Zann",
-    "role": "Member",
-    "image": "https://raw.githubusercontent.com/khaidir13/database/main/pfp/1755186300068-download-(8).jpeg"
   }
 ]
