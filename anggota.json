@@ -10,5 +10,11 @@
     "name": "Zann",
     "role": "Member",
     "image": "https://raw.githubusercontent.com/khaidir13/database/main/pfp/1755186300068-download-(8).jpeg"
+  },
+  {
+    "id": "member_1755186370168",
+    "name": "Toto",
+    "role": "Founder",
+    "image": "https://raw.githubusercontent.com/khaidir13/database/main/pfp/1755186368812-"
   }
 ]
